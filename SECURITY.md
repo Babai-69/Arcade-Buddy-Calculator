@@ -139,7 +139,9 @@ All sensitive collections are protected server-side by **Cloud Firestore Securit
 ---
 
 ## User Security Best Practices
-
+| Arcade Buddy Login Page | Arcade Buddy Signup Page |
+| :---: | :---: |
+| <img src="./public/screenshots/signin.png" alt="Arcade Learning Resources Center" width="100%"/> | <img src="./public/screenshots/signup.png" alt="Prize Counter Redemption Guide" width="100%"/> |
 - **Share Only Public Profile URLs**: Arcade Buddy only requires your public `https://www.skills.google/public_profiles/...` URL — never enter your Google password or account recovery codes anywhere on third-party sites.
 - **Zero Credential Storage**: Authentication uses official **Google Sign-In via Firebase OAuth popups**; Arcade Buddy never sees or stores user passwords.
 - **No Unsolicited PII on Public Leaderboards**: Public leaderboard entries display participant names, rank badges, and earned point breakdowns only.
