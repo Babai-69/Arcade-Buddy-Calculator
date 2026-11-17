@@ -180,7 +180,7 @@ Arcade Buddy only reads **publicly shared Google Cloud Skills Boost profile page
 
 <div align="center">
 
-**Designed & Developed by Abir Dey** · **Manitained by Co-Facilitator: Tripti Gupta**
+**Designed & Developed by Abir Dey (https://www.linkedin.com/in/abir-dey-a34914254/)** · **Manitained by Co-Facilitator: Tripti Gupta**
 *Google Cloud Arcade Facilitator 2026 — Arcade With Us*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Babai--69-181717?style=for-the-badge&logo=github)](https://github.com/Babai-69)
