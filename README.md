@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/dqj9yaa0g/image/upload/v1782148621/Logo-google-cloud-icon-vector-PNG_ow9y9y.png" width="84" height="84" alt="Arcade Buddy Logo"/>
+<img src="https://arcade-buddy.vercel.app/assets/logo-C-ZbwJPt.png" width="84" height="84" alt="Arcade Buddy Logo"/>
 
 # 🕹️ Arcade Buddy
 
 ### Your All-in-One Google Cloud Arcade 2026 Companion & Facilitator Hub
 
 [![Program](https://img.shields.io/badge/Google_Cloud_Arcade-2026_Season-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#-about-arcade-buddy)
-[![Live Experience](https://img.shields.io/badge/Live_Platform-Explore_Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ais-pre-pflgad73xzsoyh5n3pewa4-735276502020.asia-southeast1.run.app)
+[![Live Experience](https://img.shields.io/badge/Live_Platform-Explore_Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arcade-buddy.vercel.app/)
 [![Security Policy](https://img.shields.io/badge/Security-Policy-181717?style=for-the-badge&logo=shield&logoColor=white)](./SECURITY.md)
 
 **Track Badges · Visualize 2026 Streaks · Calculate Points · Claim Swags · Climb the Leaderboard 🎁**
